@@ -1,5 +1,5 @@
 //Here is our first program in Go, it simply prints out "Hello, World!"
-//Don't worry about the syntax and price of code written below, I will explain them in the next program
+//Don't worry about the syntax and price of code written below, I will explain them in the coming chapters
 //For now just type and run the program, so that you get a feel of Go Programming Language
 package main
 

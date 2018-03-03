@@ -11,5 +11,5 @@ Most of the writeup is from a new programmers point of new, I hope this would he
 
 I am trying to update this repo each day with new topics and hope to complete some basic & intermediate Golang till Oct, 2018
 
-Since, I am also learning any contributions in better code, code samples, documentation would be really appreciated !
+Since, I am also learning, any contributions in better code, code samples, documentation would be really appreciated !
 
