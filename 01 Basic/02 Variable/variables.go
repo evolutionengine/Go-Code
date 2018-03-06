@@ -62,7 +62,7 @@ func main() {
 	fmt.Println(KEY)
 	//trying to change the value of key with, key = 200, will produce an error
 
-	//Short hand method for declaring variables
+	//Short hand method for declaring variables, this is also known as 'type inference'
 	ocean := "Atlantic"
 	miles := 1300
 	condition := true
@@ -73,6 +73,10 @@ func main() {
 	fmt.Println(miles)
 	fmt.Println(condition)
 	fmt.Println(API_KEY)
+
+	//You can define multiple variables using type inference in one line
+	k, v, p := "Golang", true, 13;
+	fmt.Println(k, v, p)
 }
 
 /*To run the program follow the following steps
