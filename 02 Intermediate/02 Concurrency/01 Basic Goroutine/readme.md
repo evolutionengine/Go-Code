@@ -1,4 +1,4 @@
-#Understanding Concurrency In Golang
+# Understanding Concurrency In Golang
 
 *Concurrency is different than parallelism, we would be touching more of concurrent operations in Go*
 
