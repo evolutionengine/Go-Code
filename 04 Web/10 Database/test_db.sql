@@ -1,0 +1,6 @@
+CREATE TABLE `userinfo` (
+    `uid` INT(10) NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    `username` VARCHAR(64) NULL DEFAULT NULL,
+    `deptname` VARCHAR(64) NULL DEFAULT NULL,
+    `created` DATE NULL DEFAULT NULL
+);
